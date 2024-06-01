@@ -38,6 +38,10 @@ I'm a passionate data scientist with experience in various analytical and machin
 ## 📊 GitHub Stats
 ![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lakshya-2703&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya-2703&layout=compact&theme=radical)
+![GitHub followers](https://img.shields.io/github/followers/Lakshya-2703?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Lakshya-2703?style=social)
+![Profile views](https://komarev.com/ghpvc/?username=Lakshya-2703&color=blue)
+
 
 ## 🎯 Goals for 2024
 - Contribute to open-source projects
